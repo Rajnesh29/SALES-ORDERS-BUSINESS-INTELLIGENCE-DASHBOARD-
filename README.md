@@ -14,7 +14,7 @@ In this stage  we’ll use data analysis expressions (DAX). We’ll create calcu
 
 **Step 4: Visualizing Data with Reports**
 
-In this Stage  is about bringing our data to LIFE with reports and dashboards. We’ll review data viz best practices, building and format basic charts, and add interactivity with bookmarks, slicer panels, parameters, tooltips, report navigation, and more:
+In this Stage  is about bringing our data to LIFE with reports and dashboards. We’ll review data viz best practices, building and format basic charts, and add interactivity with bookmarks, slicer panels, parameters, tooltips, report navigation.
 
 
 
