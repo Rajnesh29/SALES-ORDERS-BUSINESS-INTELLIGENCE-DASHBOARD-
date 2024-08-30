@@ -1,6 +1,7 @@
 # SALES-ORDERS-BUSINESS-INTELLIGENCE-DASHBOARD-
 
 **Step 1: Connecting & Shaping Data-**
+
 In this stage we’ll focus on building automated workflows to extract, clean, transform, and load our project data using Power Query, and explore common data connectors, storage modes, profiling tools, table transformations.
 
 **Step 2: Creating a Relational Data Model-**
