@@ -10,7 +10,7 @@ In this stage  we’ll review data modeling best practices, cardinality, normali
 
 **Step 3: Adding Calculated Fields with DAX**
 
-In this stage  we’ll use data analysis expressions (DAX). We’ll create calculated columns and measures, explore topics like row and filter context, and practice applying powerful tools like filter functions, iterators, and time intelligence patterns.
+In this stage  we’ll use data analysis expressions (DAX). We’ll create calculated columns and measures, explore row and filter context, and apply powerful tools like filter functions, iterators, and time intelligence patterns.
 
 **Step 4: Visualizing Data with Reports**
 
